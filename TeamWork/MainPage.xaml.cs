@@ -26,5 +26,10 @@ namespace TeamWork
         {
             this.InitializeComponent();
         }
+
+        private void ClickMeButton_Click(object sender, RoutedEventArgs e)
+        {
+            TextBlock.Text = "Hello World！";
+        }
     }
 }
