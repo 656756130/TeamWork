@@ -34,7 +34,7 @@ namespace TeamWork
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-
+            textBox.Text ="WoW";
         }
     }
 }
