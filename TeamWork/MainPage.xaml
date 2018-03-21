@@ -13,6 +13,6 @@
         <ProgressRing IsActive="True"  HorizontalAlignment="Left"  Margin="532,364,0,0" VerticalAlignment="Top" Background="White" Height="102" Width="104"/>
         <TextBlock Name="TextBlock" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top"/>
         <TextBox x:Name="textBox" HorizontalAlignment="Left"  Margin="530,522,0,0" VerticalAlignment="Top" Width="260" PlaceholderText="http://uvp.neu.edu.cn/"/>
-        <Button x:Name="button" Content="Submit" HorizontalAlignment="Left" Margin="826,522,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Submit " HorizontalAlignment="Left" Margin="826,522,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Page>
