@@ -29,7 +29,12 @@ namespace TeamWork
 
         private void ClickMeButton_Click(object sender, RoutedEventArgs e)
         {
-            TextBlock.Text = "Hello World！";
+            TextBlock.Text = "Hello World！This is my C# code!";
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
